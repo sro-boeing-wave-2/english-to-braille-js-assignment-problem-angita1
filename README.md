@@ -12,7 +12,7 @@ The objective of this assignment is to convert the text in english to Braille us
 
 1. Create a page which takes input in the english language and ouputs in Braille.
 2. The conversion should happen in the most optimal way when you type in english.
-3. You can use the text-to-braille mappings from the file `text-to-braille.js`.
+3. You can use the text-to-braille mappings from the file `english-to-braille.js`.
 4. You will write all your code in `index.js`
 
 ## Instructions to run the assignment
